@@ -250,7 +250,7 @@ def render_ficha(fila, cfg):
 st.markdown("""
 <div class="header-block">
   <h1>⚓ VERIFICADOR<br>DE EMBARCACIONES</h1>
-  <p>DIREPRO TUMBES · PRODUCE</p>
+  <p>MINISTERIO DE LA PRODUCCIÓN · PRODUCE</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -348,7 +348,7 @@ with st.expander("⚖️ Base legal"):
 
 st.markdown("""
 <div class="footer">
-  DIREPRO TUMBES · PRODUCE · USO OFICIAL EN CAMPO<br>
+  MINISTERIO DE LA PRODUCCIÓN · PRODUCE · USO EN CAMPO<br>
   Datos según lista PRODUCE vigente
 </div>
 """, unsafe_allow_html=True)
